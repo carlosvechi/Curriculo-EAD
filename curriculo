@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Online</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Currículo de Carlos Alberto Egen Vechi Junior</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#experiencia">Experiência</a></li>
+                <li><a href="#educacao">Educação</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="sobre">
+            <h2>Sobre Mim</h2>
+            <p>Sou o Carlos, estudante dedicado de Análise e Desenvolvimento de Sistemas com paixão por tecnologia e programação. Atualmente focado no aprendizado de Java. Estou buscando uma oportunidade para atuar na área, expandir meu conhecimento prático e adquirir experiências. </p>
+        </section>
+
+        <section id="experiencia">
+            <h2>Experiência Profissional</h2>
+            <article>
+                
+                <p>Até o momento, não possuo experiência profissional na área. Mas estou entusiasmado em mudar para a área de ADS e estou pronto para aplicar meu conhecimento acadêmico e minha determinação para adquirir experiência prática. </p>
+               
+            </article>
+        </section>
+
+        <section id="educacao">
+            <h2>Educação</h2>
+            <article>
+                <h3>Tecnólogo em Análise e Desenvolvimento de Sistemas</h3>
+                <p>Universidade UNISENAI - Prazo para conclusão em 2025</p>
+            <	/article>
+        </section>
+    </main>
+
+    <aside>
+        <h3>Contato</h3>
+        <p>Email: jrvechi@icloud.com</p>
+        <p>Telefone: (13) 981360155 - Whatsapp
+     </p>  Telefone: (13) 996690155 - Fixo
+    </aside>
+
+    <footer>
+        <p>&copy; 2024 Currículo de Carlos Vechi. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
